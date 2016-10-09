@@ -1,0 +1,24 @@
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment\consoleAssignment\bin\Debug\consoleAssignment.exe.config
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment\consoleAssignment\bin\Debug\consoleAssignment.exe
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment\consoleAssignment\bin\Debug\consoleAssignment.pdb
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment\consoleAssignment\obj\Debug\consoleAssignment.exe
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment\consoleAssignment\obj\Debug\consoleAssignment.pdb
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment\consoleAssignment\obj\Debug\consoleAssignment.csprojResolveAssemblyReference.cache
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Extra)\consoleAssignment\bin\Debug\consoleAssignment.exe.config
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Extra)\consoleAssignment\obj\Debug\consoleAssignment.exe
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Extra)\consoleAssignment\obj\Debug\consoleAssignment.pdb
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Extra)\consoleAssignment\bin\Debug\consoleAssignment.exe
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Extra)\consoleAssignment\bin\Debug\consoleAssignment.pdb
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Extra)\consoleAssignment\obj\Debug\consoleAssignment.csprojResolveAssemblyReference.cache
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Extra) - Copy\consoleAssignment\bin\Debug\consoleAssignment.exe.config
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Extra) - Copy\consoleAssignment\obj\Debug\consoleAssignment.exe
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Extra) - Copy\consoleAssignment\obj\Debug\consoleAssignment.pdb
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Extra) - Copy\consoleAssignment\obj\Debug\consoleAssignment.csprojResolveAssemblyReference.cache
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Extra) - Copy\consoleAssignment\bin\Debug\consoleAssignment.exe
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Extra) - Copy\consoleAssignment\bin\Debug\consoleAssignment.pdb
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Submit)\consoleAssignment\bin\Debug\consoleAssignment.exe.config
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Submit)\consoleAssignment\obj\Debug\consoleAssignment.exe
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Submit)\consoleAssignment\obj\Debug\consoleAssignment.pdb
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Submit)\consoleAssignment\bin\Debug\consoleAssignment.exe
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Submit)\consoleAssignment\bin\Debug\consoleAssignment.pdb
+C:\Users\klynty\Desktop\IS 403 V.S. Projects\consoleAssignment (Submit)\consoleAssignment\obj\Debug\consoleAssignment.csprojResolveAssemblyReference.cache
